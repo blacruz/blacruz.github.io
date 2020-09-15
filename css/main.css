@@ -7140,3 +7140,6 @@ label.panel-block {
 
 .client-logo {
   max-height: 100px; }
+
+.is-skill-icon {
+  max-width: 60px; }
